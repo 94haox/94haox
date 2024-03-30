@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Huami
+- 🔭 I’m currently working on MiHoYo
 
 - 🌱 I’m currently learning SwiftUI
 
